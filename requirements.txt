@@ -1,0 +1,4 @@
+urllib3==2.0.2
+ffmpy3==0.2.4
+pydub==0.25.1
+requests==2.31.0
